@@ -3,7 +3,7 @@
 # Índice
 
 1. [Introducción](#introducción)
-2. [Propósito del sistema](#propósito del sistema)
+2. [Propósito del sistema](#propósitodelsistema)
 
 
 ## Introducción
